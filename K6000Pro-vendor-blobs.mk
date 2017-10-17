@@ -76,20 +76,15 @@ PRODUCT_COPY_FILES += \
     vendor/oukitel/K6000Pro/proprietary/etc/trustzone.bin:system/etc/trustzone.bin \
     vendor/oukitel/K6000Pro/proprietary/lib64/egl/libGLES_mali.so:system/lib64/egl/libGLES_mali.so \
     vendor/oukitel/K6000Pro/proprietary/lib64/hw/audio.a2dp.default.so:system/lib64/hw/audio.a2dp.default.so \
-    vendor/oukitel/K6000Pro/proprietary/lib64/hw/audio.primary.mt6735.so:system/lib64/hw/audio.primary.mt6735.so \
     vendor/oukitel/K6000Pro/proprietary/lib64/hw/audio.primary.mt6753.so:system/lib64/hw/audio.primary.mt6753.so \
-    vendor/oukitel/K6000Pro/proprietary/lib64/hw/camera.mt6735.so:system/lib64/hw/camera.mt6735.so \
     vendor/oukitel/K6000Pro/proprietary/lib64/hw/camera.mt6753.so:system/lib64/hw/camera.mt6753.so \
     vendor/oukitel/K6000Pro/proprietary/lib64/hw/fingerprint.default.so:system/lib64/hw/fingerprint.default.so \
     vendor/oukitel/K6000Pro/proprietary/lib64/hw/gps.mt6753.so:system/lib64/hw/gps.mt6753.so \
-    vendor/oukitel/K6000Pro/proprietary/lib64/hw/gralloc.mt6735.so:system/lib64/hw/gralloc.mt6735.so \
     vendor/oukitel/K6000Pro/proprietary/lib64/hw/gralloc.mt6753.so:system/lib64/hw/gralloc.mt6753.so \
-    vendor/oukitel/K6000Pro/proprietary/lib64/hw/hwcomposer.mt6735.so:system/lib64/hw/hwcomposer.mt6735.so \
     vendor/oukitel/K6000Pro/proprietary/lib64/hw/hwcomposer.mt6753.so:system/lib64/hw/hwcomposer.mt6753.so \
     vendor/oukitel/K6000Pro/proprietary/lib64/hw/lights.mt6753.so:system/lib64/hw/lights.mt6753.so \
     vendor/oukitel/K6000Pro/proprietary/lib64/hw/memtrack.mt6753.so:system/lib64/hw/memtrack.mt6753.so \
     vendor/oukitel/K6000Pro/proprietary/lib64/hw/power.mt6753.so:system/lib64/hw/power.mt6753.so \
-    vendor/oukitel/K6000Pro/proprietary/lib64/hw/sensors.mt6735.so:system/lib64/hw/sensors.mt6735.so \
     vendor/oukitel/K6000Pro/proprietary/lib64/hw/sensors.mt6753.so:system/lib64/hw/sensors.mt6753.so \
     vendor/oukitel/K6000Pro/proprietary/lib64/lib3a_sample.so:system/lib64/lib3a_sample.so \
     vendor/oukitel/K6000Pro/proprietary/lib64/lib3a.so:system/lib64/lib3a.so \
@@ -204,20 +199,15 @@ PRODUCT_COPY_FILES += \
     vendor/oukitel/K6000Pro/proprietary/lib64/mtk-ril.so:system/lib64/mtk-ril.so \
     vendor/oukitel/K6000Pro/proprietary/lib/egl/libGLES_mali.so:system/lib/egl/libGLES_mali.so \
     vendor/oukitel/K6000Pro/proprietary/lib/hw/audio.a2dp.default.so:system/lib/hw/audio.a2dp.default.so \
-    vendor/oukitel/K6000Pro/proprietary/lib/hw/audio.primary.mt6735.so:system/lib/hw/audio.primary.mt6735.so \
     vendor/oukitel/K6000Pro/proprietary/lib/hw/audio.primary.mt6753.so:system/lib/hw/audio.primary.mt6753.so \
-    vendor/oukitel/K6000Pro/proprietary/lib/hw/camera.mt6735.so:system/lib/hw/camera.mt6735.so \
     vendor/oukitel/K6000Pro/proprietary/lib/hw/camera.mt6753.so:system/lib/hw/camera.mt6753.so \
     vendor/oukitel/K6000Pro/proprietary/lib/hw/gps.mt6753.so:system/lib/hw/gps.mt6753.so \
-    vendor/oukitel/K6000Pro/proprietary/lib/hw/gralloc.mt6735.so:system/lib/hw/gralloc.mt6735.so \
     vendor/oukitel/K6000Pro/proprietary/lib/hw/gralloc.mt6753.so:system/lib/hw/gralloc.mt6753.so \
-    vendor/oukitel/K6000Pro/proprietary/lib/hw/hwcomposer.mt6735.so:system/lib/hw/hwcomposer.mt6735.so \
     vendor/oukitel/K6000Pro/proprietary/lib/hw/hwcomposer.mt6753.so:system/lib/hw/hwcomposer.mt6753.so \
     vendor/oukitel/K6000Pro/proprietary/lib/hw/lights.mt6753.so:system/lib/hw/lights.mt6753.so \
     vendor/oukitel/K6000Pro/proprietary/lib/hw/memtrack.mt6753.so:system/lib/hw/memtrack.mt6753.so \
     vendor/oukitel/K6000Pro/proprietary/lib/hw/power.mt6753.so:system/lib/hw/power.mt6753.so \
-    vendor/oukitel/K6000Pro/proprietary/lib/hw/radio.fm.mt6735.so:system/lib/hw/radio.fm.mt6735.so \
-    vendor/oukitel/K6000Pro/proprietary/lib/hw/sensors.mt6735.so:system/lib/hw/sensors.mt6735.so \
+    vendor/oukitel/K6000Pro/proprietary/lib/hw/radio.fm.mt6753.so:system/lib/hw/radio.fm.mt6753.so \
     vendor/oukitel/K6000Pro/proprietary/lib/hw/sensors.mt6753.so:system/lib/hw/sensors.mt6753.so \
     vendor/oukitel/K6000Pro/proprietary/lib/lib3a_sample.so:system/lib/lib3a_sample.so \
     vendor/oukitel/K6000Pro/proprietary/lib/lib3a.so:system/lib/lib3a.so \
